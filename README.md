@@ -4,7 +4,7 @@ Welcome to my ChatGPT API Integration repository! This project demonstrates my u
 
 ## Screenshots
 
-![Screenshot 1](img1.jpg) | ![Screenshot 2](img2.jpg) | ![Screenshot 3](img3.jpg)
+![Screenshot 1](images/img1.jpg) | ![Screenshot 2](images/img2.jpg) | ![Screenshot 3](images/img3.jpg)
 --- | --- | ---
 Screenshot 1 | Screenshot 2 | Screenshot 3
 
